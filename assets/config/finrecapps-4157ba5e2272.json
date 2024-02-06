@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "finrecapps",
+  "private_key_id": "4157ba5e227252e5baf9c6c6259ac9402c68ba94",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDDAy+0obHwCTmL\nwiNAcUfjE/008EXZoudGSRpisMM78GMVsNMaY9txzPQmmKKFuKqVYHnZAKjdIQyQ\niXhD5VIsrqibpxBe6CFu1ckZgwYkerKpVOzN+rfJUD3wLrW+pLBIvR+GInCaQ8Wj\n6B9R0GO3VSGf2mKDjK2dSvk4M8MOs1uwdadf/PuYTDagOFS19m+O8qC0DiwkvjPn\nhcsyJXiZE10+wTvQVUqH3PZAxjofd0fhwNwVJRuKS3r3WwADH2O8ZFFUJmR1zMKw\n7ftY4NL2CTfHrUu6wwoYvh/Gi1f1LxkTAyK6x2DiV2BH7PEM4eei+bN+ojvUyIm4\n1b0pdBpnAgMBAAECggEABNSXFdczZEP096mpATFz4K91x5CEySaFt8SiKPincE7h\n2GEYImP5Fc0Y+pSA78OX8vMDbW8f/E1kS08VQPzdTz7RdE2RGxyBIjyc1kEfTYn3\nWkYlsryPMJmcn5ITJt/vmnCX+2JnsGrzz4EaqX+9mCgHfhw+T/ohRdfOtYndAlH7\njtpEMez5RQz3CTCJhQd3F250rn25Q3ar8zeDa57xXRM3LDcdz4xSkiIBGs4vJq5n\nSNdhpFeRpFT4bKNG+BNGrk1yRhzNtDYbFZbfoBSjdMMUZTP7mOmNPp/ySZVpRaVC\nEiXtbUlIXjoYPPlkUxZIgQNUeSxE1fR5VyZqx7YXDQKBgQDvfEq1m/fClOevAuq4\nYr92GbIZF2CB/kv9LJe02n55BvV3RC9mRpyNKb+YJMFN1JjMzRMch7NxFbvKKIsF\nO9W8jllxxGNAjPF1FnWlEGauwKeyCq6UsT+HQqHTi3FQQXhBjh4/4tcud5qNCK1Z\n/mu/GDoIQCjUTLKCpghh2hK0XQKBgQDQdcxiOIAbKJj+HRUCXNhYFvtdaTI4eS6f\nysnqRfdHLhgIX0+AN6jcFrThFXh8dH0rSJ1N8/cS30CI83IbUzx8exEccepz9M4v\nHruGTS7fHmJoDOOQZ6hQMxGu+qeBSI2B0fWj5FSMWYZzBeM34USRfWZFqylUQcg6\nGlKk9ugdkwKBgQC97V22r+4LJFqlwnNyLeZX/ELxgUepcIrFS4M5C/s3cpxjrPDG\ndQOdNFndiHDBj/Rqn80jWD+oVKssxYCTcwOsWVx4TF7Gh8DKsjg040/8EZAtNCmG\nhRez5tU+Vx1Tn8iGfPZihj1Pfc1VQmdwssSytbz4ZCG9VOJRmOmW6QLihQKBgHzA\nQlP1ZBTcstJALTaAwafV+Q/pyHgrbU+LWFKvFFCwsQkxoK4moRM1M4IQC07Pl6iz\niBAClDXjDQfoSL05jtUgARl4wsoqEsn4Jlk1D3vO/y0tqXHd1shIB6kjr+KavLSY\nJdyy5DYpzWBAgb4LPbGjzfSbfdxCkcTTw+mdKUOpAoGAQgQt5lRIfUFUaSjOnm/C\nqcodDf/qrwHA3RwSAzB7ZH2iLOnQi6FWsn1a9S129YHG4joHPUyk2BCe1Rx9CUjH\nLO8F60XO71mKGtUT4P7iAWxZr3lIhXz2WedxxdrS/SNM14c5WPIpD2F7qhfR3gkH\nUwUJ5si1ZBqWdCyI8u63Mu4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "fincrec@finrecapps.iam.gserviceaccount.com",
+  "client_id": "118402017720844193779",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/fincrec%40finrecapps.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
